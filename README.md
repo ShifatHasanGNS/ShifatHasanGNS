@@ -2,7 +2,7 @@
 
 **`Student/Programmer`**
 
-I am a **passionate programmer,** studying **CSE** (Computer Science & Engineering) at **KUET** (Khulna University of Engineering & Technology) **and** I'm with programming (maybe) from my class 8 **.**
+I am a **passionate programmer,** studying **CSE** (Computer Science & Engineering) at **KUET** (Khulna University of Engineering & Technology) **.**
    <p align="left">
       <a href="https://github.com/shifathasangns?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shifathasangns?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
