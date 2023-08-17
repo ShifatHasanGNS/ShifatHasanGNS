@@ -31,11 +31,11 @@ I am a **passionate programmer,** studying **CSE** (Computer Science & Engineeri
 
 #
 
-### 📊 My Github Statistics
+<!-- ### 📊 My Github Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=shifathasangns&show_icons=true&theme=transparent)
 
-![](https://streak-stats.demolab.com?user=shifathasangns&theme=gruvbox&border_radius=4.5)
+![](https://streak-stats.demolab.com?user=shifathasangns&theme=gruvbox&border_radius=4.5) -->
 
 #
 
