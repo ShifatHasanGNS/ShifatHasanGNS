@@ -3,14 +3,15 @@
 **`Student/Programmer`**
 
 I am a **passionate programmer,** studying **CSE** (Computer Science & Engineering) at **KUET** (Khulna University of Engineering & Technology) **.**
-   <p align="left">
-      <a href="https://github.com/shifathasangns?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shifathasangns?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/shifathasangns?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shifathasangns?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
----
+<p align="left">
+    <a href="https://github.com/shifathasangns?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shifathasangns?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=followers&logoColor=white"/>
+    </a>
+    <a href="https://github.com/shifathasangns?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shifathasangns?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a>
+</p>
 
 ### 🧰 Languages and Tools (I'm interested in)
 
@@ -31,13 +32,11 @@ I am a **passionate programmer,** studying **CSE** (Computer Science & Engineeri
 
 #
 
-<!-- ### 📊 My Github Statistics
+### 📈 My Github Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=shifathasangns&show_icons=true&theme=transparent)
 
-![](https://streak-stats.demolab.com?user=shifathasangns&theme=gruvbox&border_radius=4.5) -->
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShifatHasanGNS&theme=transparent)
 
-#
-
-<!-- <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary> -->
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShifatHasanGNS&theme=transparent)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShifatHasanGNS&theme=transparent)
