@@ -2,7 +2,7 @@
 
 **`Student/Programmer`**
 
-I am a **passionate programmer,** studying **CSE** (Computer Science & Engineering) at **KUET** (Khulna University of Engineering & Technology) **.**
+I am a **passionate programmer,** studying **CSE** (Computer Science & Engineering) at **KUET** (Khulna University of Engineering & Technology)**.**
 
 <p align="left">
     <a href="https://github.com/shifathasangns?tab=followers">
