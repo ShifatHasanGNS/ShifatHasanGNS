@@ -34,7 +34,7 @@ I am a **passionate programmer,** studying **CSE** (Computer Science & Engineeri
 
 ### 📈 My Github Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=shifathasangns&show_icons=true&theme=transparent)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=shifathasangns&show_icons=true&theme=transparent) -->
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShifatHasanGNS&theme=transparent)
 
