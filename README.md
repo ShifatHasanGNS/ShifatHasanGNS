@@ -13,7 +13,7 @@ I am a **passionate programmer,** studying **CSE** (Computer Science & Engineeri
     </a>
 </p>
 
-### 🧰 Languages and Tools (I'm interested in)
+#### 🧰 Languages and Tools I'm interested in
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -32,11 +32,17 @@ I am a **passionate programmer,** studying **CSE** (Computer Science & Engineeri
 
 #
 
-### 📈 My Github Statistics
+#### 📈 My Github Activities
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=shifathasangns&show_icons=true&theme=transparent) -->
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShifatHasanGNS&show_icons=true&locale=en&layout=compact&theme=transparent)
 
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShifatHasanGNS&theme=transparent)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShifatHasanGNS&show_icons=true&locale=en&layout=compact&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ShifatHasanGNS&show_icons=true&locale=en&layout=compact&theme=transparent)
 
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShifatHasanGNS&theme=transparent)
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShifatHasanGNS&theme=transparent)
+![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ShifatHasanGNS&show_icons=true&locale=en&layout=compact&theme=transparent)
+
+#
+
+#### 🏆 Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ShifatHasanGNS)](https://github.com/ryo-ma/github-profile-trophy)
