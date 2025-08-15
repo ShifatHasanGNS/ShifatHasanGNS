@@ -11,15 +11,19 @@ I am a **passionate programmer,** studying **CSE** (Computer Science & Engineeri
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shifathasangns?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-#### 🧰 Languages and Tools I'm interested in
+#### 🧰 Languages and Tools I'm Good at
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />
+<img align="left" alt="Zig" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/ziglang/logo/refs/heads/master/zig-logo-dynamic.svg" />
+<img align="left" alt="Odin" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/The_odin_programming_language_logo.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
