@@ -41,7 +41,7 @@ I am a **passionate programmer,** studying **CSE** (Computer Science & Engineeri
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShifatHasanGNS&show_icons=true&locale=en&layout=compact&theme=transparent)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ShifatHasanGNS&show_icons=true&locale=en&layout=compact&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShifatHasanGNS1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShifatHasanGNS&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 #
 
