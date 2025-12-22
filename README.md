@@ -5,12 +5,8 @@
 I am a **passionate programmer,** studying **CSE** (Computer Science & Engineering) at **KUET** (Khulna University of Engineering & Technology)**.**
 
 <p align="left">
-    <a href="https://github.com/shifathasangns?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shifathasangns?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=followers&logoColor=white"/>
-    </a>
-    <a href="https://github.com/shifathasangns?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shifathasangns?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-    </a>
+    <a href="https://github.com/shifathasangns?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/shifathasangns?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=followers&logoColor=white"/></a>
+    <a href="https://github.com/shifathasangns?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/shifathasangns?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 #### 🧰 Languages and Tools I'm Good at
