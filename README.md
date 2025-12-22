@@ -44,10 +44,10 @@ I am a **passionate programmer,** studying **CSE** (Computer Science & Engineeri
 <h3 align="center">Let's Get Connected</h3>
 
 <p align="center">
-    <a href="mailto:shifathasangns@gmail.com" target="__blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Shifat's Gmail" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/md-shifat-hasan-8179402b4/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shifat's Linkedin Profile" height="30" width="40" /></a>
     <a href="https://facebook.com/shifathasangns" target="__blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="Shifat's Facebook Profile" height="30" width="40" /></a>
     <a href="https://www.youtube.com/@shifathasangns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Shifat's Youtube" height="30" width="40" /></a>
+    <a href="mailto:shifathasangns@gmail.com" target="__blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Shifat's Gmail" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/md-shifat-hasan-8179402b4/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shifat's Linkedin Profile" height="30" width="40" /></a>
 </p>
 
 #
