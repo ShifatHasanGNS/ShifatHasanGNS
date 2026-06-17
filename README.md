@@ -16,21 +16,17 @@ I'm a passionate programmer studying **Computer Science & Engineering** at **Khu
 
 </div>
 
-<br>
-
-## 🧰 Languages & Tools
+## 🛠️ Languages & Tools
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,go,python,cs,java&theme=dark&perline=8" />
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,git,github,linux&theme=dark&perline=8" /><img alt="Odin" height="48" src="https://img.shields.io/badge/Odin-3882FF?style=for-the-badge&logoColor=fff" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,git,github,linux&theme=dark&perline=8" /><img alt="Odin" height="45" src="https://img.shields.io/badge/Odin-3882FF?style=flat-square&logoColor=fff" />
 
 </div>
 
 <p align="center"><sub>C • C++ • Rust • Zig • Go • Python • C# • Java • JavaScript • TypeScript • HTML/CSS • Git • GitHub • Linux • Odin</sub></p>
-
-<br>
 
 ## 📊 GitHub Stats
 
