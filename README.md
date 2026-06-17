@@ -22,7 +22,9 @@ I'm a passionate programmer studying **Computer Science & Engineering** at **Khu
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,go,python,cs,java&theme=dark&perline=8" />
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,git,github,linux,kotlin&theme=dark&perline=8" /><img alt="Odin" height="45" src="https://img.shields.io/badge/Odin-3882FF?style=flat-square&logoColor=fff" /><img alt="Gleam" height="45" src="https://img.shields.io/badge/Gleam-FFAFF3?style=flat-square&logoColor=000" />
+<img src="https://skillicons.dev/icons?i=kotlin,js,ts,html,css,git,github,linux&theme=dark&perline=8" />
+<br>
+<img alt="Odin" height="48" src="https://raw.githubusercontent.com/odin-lang/Odin/master/misc/logo-slim.png" />&nbsp;&nbsp;<img alt="Gleam" height="48" src="https://gleam.run/images/lucy/lucy.svg" />
 
 </div>
 
