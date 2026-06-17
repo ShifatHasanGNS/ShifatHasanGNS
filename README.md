@@ -6,16 +6,11 @@
 
 I'm a passionate programmer studying **Computer Science & Engineering** at **Khulna University of Engineering & Technology (KUET)**. I enjoy working close to the metal — systems programming, low-level languages, and clean, efficient code.
 
-<a href="https://github.com/shifathasangns?tab=followers">
-  <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/shifathasangns?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" />
-</a>
-<a href="https://github.com/shifathasangns?tab=repositories&sort=stargazers">
-  <img alt="Total Stars" src="https://custom-icon-badges.demolab.com/github/stars/shifathasangns?color=55960c&labelColor=488207&style=for-the-badge&logo=star&logoColor=white" />
-</a>
+<br>
 
-<br><br>
+[![Followers](https://custom-icon-badges.demolab.com/github/followers/shifathasangns?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)](https://github.com/shifathasangns?tab=followers)&nbsp;&nbsp;[![Stars](https://custom-icon-badges.demolab.com/github/stars/shifathasangns?color=55960c&labelColor=488207&style=for-the-badge&logo=star&logoColor=white)](https://github.com/shifathasangns?tab=repositories&sort=stargazers)
 
-<div align="center">
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shifat-hasan-8179402b4/)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shifathasangns@gmail.com)&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shifathasangns)&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shifathasangns)
 
