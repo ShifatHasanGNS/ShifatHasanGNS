@@ -67,8 +67,6 @@ I'm a passionate programmer studying **Computer Science & Engineering** at **Khu
   </a>
 </div>
 
-</div>
-
 <br>
 
 ## 🧰 Languages & Tools
