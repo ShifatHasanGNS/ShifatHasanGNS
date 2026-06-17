@@ -21,7 +21,9 @@ I'm a passionate programmer studying **Computer Science & Engineering** at **Khu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,cs,java,js,ts,html,css,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,cs,java&theme=dark&perline=7" />
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,git,github,linux&theme=dark&perline=7" />
 
 </div>
 
@@ -46,6 +48,10 @@ I'm a passionate programmer studying **Computer Science & Engineering** at **Khu
 
 <img src="https://streak-stats.demolab.com/?user=ShifatHasanGNS&theme=dark&hide_border=true" />
 
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShifatHasanGNS&theme=react-dark&hide_border=true&area=true" />
+
 </div>
 
 <br>
@@ -54,23 +60,35 @@ I'm a passionate programmer studying **Computer Science & Engineering** at **Khu
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/md-shifat-hasan-8179402b4/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:shifathasangns@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://facebook.com/shifathasangns" target="_blank">
-  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@shifathasangns" target="_blank">
-  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/md-shifat-hasan-8179402b4/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="mailto:shifathasangns@gmail.com" target="_blank">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /><br>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://facebook.com/shifathasangns" target="_blank">
+        <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /><br>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.youtube.com/@shifathasangns" target="_blank">
+        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /><br>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br>
 
 <div align="center">
-<sub>Thanks for stopping by! ⭐ This Space if you'd like to see more.</sub>
+<sub>Thanks for stopping by! ⭐ this space if you'd like to see more.</sub>
 </div>
