@@ -57,6 +57,13 @@ I'm a passionate programmer studying **Computer Science & Engineering** at **Khu
 
 <br>
 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShifatHasanGNS&show_icons=true&locale=en&layout=compact&theme=transparent)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShifatHasanGNS&show_icons=true&locale=en&layout=compact&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ShifatHasanGNS&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
+
+<br>
+
 <div align="center">
 <sub>Thanks for stopping by! ⭐ this space if you'd like to see more.</sub>
 </div>
