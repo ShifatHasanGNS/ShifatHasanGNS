@@ -17,18 +17,9 @@ I'm a passionate programmer studying **Computer Science & Engineering** at **Khu
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/md-shifat-hasan-8179402b4/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:shifathasangns@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-E84336?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://facebook.com/shifathasangns" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.youtube.com/@shifathasangns" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
+| | | | |
+|:-:|:-:|:-:|:-:|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shifat-hasan-8179402b4/) | [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shifathasangns@gmail.com) | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shifathasangns) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shifathasangns) |
 
 </div>
 
